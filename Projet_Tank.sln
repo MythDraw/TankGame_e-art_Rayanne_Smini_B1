@@ -1,0 +1,65 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Den.Tools", "Den.Tools.csproj", "{134ddf24-a77b-76f1-fc50-939a81eda6f8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapMagic", "MapMagic.csproj", "{1d3022e6-b91c-59b9-5d1a-1c2c800aff53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Den.Tools.Editor", "Den.Tools.Editor.csproj", "{e57c0a1f-b79d-38e8-8878-5db416f947df}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{99904cc4-c3a8-3920-a74c-9717bbcfdfef}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapMagic.Editor", "MapMagic.Editor.csproj", "{6be367b0-5293-6498-1c95-3d8786d6d2d7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JBooth.MicroSplat.Core.Editor", "JBooth.MicroSplat.Core.Editor.csproj", "{d05bfcef-d34a-3ce6-7d81-c1551151cdc3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{e4c33569-c3f0-f83f-89d7-03202e0d5f84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapMagic.MicroSplat", "MapMagic.MicroSplat.csproj", "{97a25959-1e0f-7b2b-8980-5633e0287f32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JBooth.MicroSplat.Core", "JBooth.MicroSplat.Core.csproj", "{261708af-a50f-ec57-c796-a02b212c03e1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapMagic.Settings", "MapMagic.Settings.csproj", "{84cfa514-4145-5f27-14c6-8cca869f33a4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapMagic.MicroSplat.Editor", "MapMagic.MicroSplat.Editor.csproj", "{34139068-6be2-106e-817a-e205a498e1db}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapMagic.VegetationStudioPro", "MapMagic.VegetationStudioPro.csproj", "{fc43a031-776e-a7cd-a180-c9fb0b3bd2cf}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapMagic.VegetationStudioPro.Editor", "MapMagic.VegetationStudioPro.Editor.csproj", "{a3aaf791-76cc-313a-dbc3-0ea53c114a68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{134ddf24-a77b-76f1-fc50-939a81eda6f8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{134ddf24-a77b-76f1-fc50-939a81eda6f8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1d3022e6-b91c-59b9-5d1a-1c2c800aff53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1d3022e6-b91c-59b9-5d1a-1c2c800aff53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{e57c0a1f-b79d-38e8-8878-5db416f947df}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{e57c0a1f-b79d-38e8-8878-5db416f947df}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99904cc4-c3a8-3920-a74c-9717bbcfdfef}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99904cc4-c3a8-3920-a74c-9717bbcfdfef}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6be367b0-5293-6498-1c95-3d8786d6d2d7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6be367b0-5293-6498-1c95-3d8786d6d2d7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{d05bfcef-d34a-3ce6-7d81-c1551151cdc3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{d05bfcef-d34a-3ce6-7d81-c1551151cdc3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{e4c33569-c3f0-f83f-89d7-03202e0d5f84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{e4c33569-c3f0-f83f-89d7-03202e0d5f84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97a25959-1e0f-7b2b-8980-5633e0287f32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97a25959-1e0f-7b2b-8980-5633e0287f32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{261708af-a50f-ec57-c796-a02b212c03e1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{261708af-a50f-ec57-c796-a02b212c03e1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84cfa514-4145-5f27-14c6-8cca869f33a4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84cfa514-4145-5f27-14c6-8cca869f33a4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34139068-6be2-106e-817a-e205a498e1db}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34139068-6be2-106e-817a-e205a498e1db}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{fc43a031-776e-a7cd-a180-c9fb0b3bd2cf}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{fc43a031-776e-a7cd-a180-c9fb0b3bd2cf}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{a3aaf791-76cc-313a-dbc3-0ea53c114a68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{a3aaf791-76cc-313a-dbc3-0ea53c114a68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
